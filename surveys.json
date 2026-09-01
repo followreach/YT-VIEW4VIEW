@@ -1,0 +1,35 @@
+{
+  "surveys_enabled": true,
+  "survey_links": [
+    {
+      "id": 1,
+      "title": "Main Reward Wall",
+      "url": "https://your-current-cpa-link-1.com",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Quick Task Survey",
+      "url": "https://your-current-cpa-link-2.com",
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Regional Offer",
+      "url": "https://your-current-cpa-link-3.com",
+      "active": true
+    },
+    {
+      "id": 4,
+      "title": "High-Payout Form",
+      "url": "https://your-current-cpa-link-4.com",
+      "active": true
+    },
+    {
+      "id": 5,
+      "title": "Backup Offerwall",
+      "url": "https://your-current-cpa-link-5.com",
+      "active": false
+    }
+  ]
+}
