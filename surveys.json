@@ -3,33 +3,43 @@
   "survey_links": [
     {
       "id": 1,
-      "title": "Main Reward Wall",
-      "url": "https://your-current-cpa-link-1.com",
+      "title": "Quick Tech & AI Insights Survey",
+      "subtitle": "Answer 5 quick questions on A...",
+      "coins": 10,
+      "url": "https://ogads.com/lockers/mobile_game_milestone_xyz",
       "active": true
     },
     {
       "id": 2,
-      "title": "Quick Task Survey",
-      "url": "https://your-current-cpa-link-2.com",
+      "title": "Creator Monetization & A...",
+      "subtitle": "Share feedback on channel m...",
+      "coins": 18,
+      "url": "https://ogads.com/lockers/quick_app_install_xyz",
       "active": true
     },
     {
       "id": 3,
-      "title": "Regional Offer",
-      "url": "https://your-current-cpa-link-3.com",
+      "title": "Cyber Media Consumptio...",
+      "subtitle": "Short study on video watch ha...",
+      "coins": 30,
+      "url": "https://ogads.com/lockers/utility_signup_xyz",
       "active": true
     },
     {
       "id": 4,
-      "title": "High-Payout Form",
-      "url": "https://your-current-cpa-link-4.com",
+      "title": "Digital Product QA & UX A...",
+      "subtitle": "Evaluate mobile app interface ...",
+      "coins": 35,
+      "url": "https://ogads.com/lockers/ecommerce_trial_xyz",
       "active": true
     },
     {
       "id": 5,
-      "title": "Backup Offerwall",
-      "url": "https://your-current-cpa-link-5.com",
-      "active": false
+      "title": "VIP Creator Deep-Dive Su...",
+      "subtitle": "In-depth creator growth & spo...",
+      "coins": 45,
+      "url": "https://ogads.com/lockers/mobile_survey_xyz",
+      "active": true
     }
   ]
 }
