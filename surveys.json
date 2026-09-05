@@ -1,5 +1,5 @@
 {
-  "surveys_enabled": true,
+  "surveys_enabled": false,
   "survey_links": [
     {
       "id": 1,
